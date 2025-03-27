@@ -1,0 +1,19 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAfR-YS-M7dSpoQW8pc3q81CAyMRikqPn2JQ&s");
+}
+
+.cont{
+    display: flex;
+    color: rgb(0 180 255);
+    font-family: "Bytesized", sans-serif;
+    font-size: 50px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    gap: 25px;
+    margin-top: 132px;
+   
+
+}
